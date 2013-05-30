@@ -8,6 +8,9 @@ import java.io.FileWriter;
 
 public class CompareNewOldCobs 
 {
+	/*
+	 * Here is a comment
+	 */
 	public static void main(String[] args) throws Exception
 	{
 		BufferedWriter writer = new BufferedWriter(new FileWriter(new File(  
