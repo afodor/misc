@@ -9,7 +9,7 @@ import java.io.FileWriter;
 public class CompareNewOldCobs 
 {
 	/*
-	 * Here is another comment.
+	 * Here is the merged comment
 	 */
 	public static void main(String[] args) throws Exception
 	{
