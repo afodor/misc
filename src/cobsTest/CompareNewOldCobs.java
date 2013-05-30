@@ -9,7 +9,7 @@ import java.io.FileWriter;
 public class CompareNewOldCobs 
 {
 	/*
-	 * Here is a comment # 4
+	 * Here is merged comment #2
 	 */
 	public static void main(String[] args) throws Exception
 	{
@@ -53,5 +53,6 @@ public class CompareNewOldCobs
 		
 		reader1.close();
 		reader2.close();
+		System.out.println("Done");
 	}
 }
